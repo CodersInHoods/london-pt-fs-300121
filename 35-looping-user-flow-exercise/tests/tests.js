@@ -1,4 +1,0 @@
-// Exercise #
-describe("", () => {
-	test("", () => {});
-});
