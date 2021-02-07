@@ -15,3 +15,9 @@
 2. font - [Caudex](https://fonts.google.com/?query=Caudex)
 
 #### Design - [Link](https://www.figma.com/file/82fT687h8EN2DxNpeYePxH/03-HTML-CSS-basics?node-id=0%3A1)
+
+##### NOTE:
+
+Use style tag to put all your styles in HTML file.
+
+###### DO NOT USE SEPARATE CSS FILE
