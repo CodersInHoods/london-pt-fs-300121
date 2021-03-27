@@ -31,7 +31,7 @@
 
 /**
  * Exercise 5
- * create a function {addPtoDivWithText} which takes a string as an argument
+ * create a function {pushPtoDivWithText} which takes a string as an argument
  * and uses innerHTML to add a p tag containing the text into the div
  */
 
