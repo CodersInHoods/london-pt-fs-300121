@@ -28,9 +28,13 @@ git push
 ## Project repos
 
 [Module 1 - CLI APP](https://github.com/CodersInHoods/cli-project-london-300121)
+
 [Module 2 - Ecommerce website](https://github.com/CodersInHoods/e-commerce-project-london-300121)
+
 [Module 3 - Twitter App](https://github.com/CodersInHoods/twitter-project-london-300121)
+
 [Module 4 - StockMarket](https://github.com/CodersInHoods/stock-trader-london-300121)
+
 [Module 5 - Recipe book](https://github.com/CodersInHoods/recipes-book-london-300121)
 
 ## Slides
