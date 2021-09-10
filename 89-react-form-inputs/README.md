@@ -44,7 +44,7 @@ const [petInfo, setPetInfo] = useState({
 });
 
 const handleChange = (event) => {
-  useState({
+  setPetInfo({
     ...petInfo,
     [event.target.name]: event.target.value,
   });
@@ -88,7 +88,7 @@ const [petInfo, setPetInfo] = useState({
 });
 
 const handleChange = (event) => {
-  useState({
+  setPetInfo({
     ...petInfo,
     [event.target.name]:
       event.target.type === "number"
@@ -140,9 +140,5 @@ const handleSubmit = (event) => {
   });
 };
 
-return (
-  <form onSubmit={handleSubmit}>
-    ...
-  </form>
-);
+return <form onSubmit={handleSubmit}>...</form>;
 ```
